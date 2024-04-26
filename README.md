@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+my name is Izabella de andrade
+- I'm studying at Alura
+- I'm developing in the JavaScript language
+- I use this space to organize and share my projects developed.
